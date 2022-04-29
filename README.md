@@ -1,6 +1,6 @@
 ## NFT-Card
 
-This is NFT preview card component made with Next.JS and Tailwind CSS. Here is the preview link: (https://spectacular-platypus-a20329.netlify.app/)
+This is an NFT preview card component made with Next.JS and Tailwind CSS. Here is the preview link: (https://spectacular-platypus-a20329.netlify.app/)
 
 ## Getting Started
 
