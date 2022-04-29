@@ -48,7 +48,7 @@ export default function Home() {
               <Price />
               <TimeLeft />
             </div>
-            <hr className="solid border-softBlue h-[1px]" />
+            <hr className="solid border-softBlueDivider h-[1px]" />
             <div className="flex items-center pb-5 gap-x-4">
               <img
                 className="w-9 border-white border-[1px] rounded-full"
